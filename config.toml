@@ -14,7 +14,7 @@ publishDir = "docs"
 
   [[menu.main]]
     identifier = "staff"
-    name = "Teaching Staff"
+    name = "Program Coordinators"
     url = "/staff/"
     weight = 5
 
