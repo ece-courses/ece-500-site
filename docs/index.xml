@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>ECE 500 - Research in Computer Vision</title>
+    <title>Computer Vision Summer Research Program</title>
     <link>https://ece-courses.github.io/ece-500-site/</link>
-    <description>Recent content on ECE 500 - Research in Computer Vision</description>
+    <description>Recent content on Computer Vision Summer Research Program</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© 2020 Leila Abdelrahman -- </copyright>
@@ -13,20 +13,20 @@
     
     
     <item>
-      <title>Course Overview</title>
-      <link>https://ece-courses.github.io/ece-500-site/posts/course-overview/</link>
-      <pubDate>Sat, 11 Jul 2020 15:48:35 -0400</pubDate>
-      
-      <guid>https://ece-courses.github.io/ece-500-site/posts/course-overview/</guid>
-      <description>Welcome!</description>
-    </item>
-    
-    <item>
       <title>Office Hours</title>
       <link>https://ece-courses.github.io/ece-500-site/office-hours/</link>
       <pubDate>Sat, 11 Jul 2020 15:48:35 -0400</pubDate>
       
       <guid>https://ece-courses.github.io/ece-500-site/office-hours/</guid>
+      <description>Welcome!</description>
+    </item>
+    
+    <item>
+      <title>Program Overview</title>
+      <link>https://ece-courses.github.io/ece-500-site/posts/program-overview/</link>
+      <pubDate>Sat, 11 Jul 2020 15:48:35 -0400</pubDate>
+      
+      <guid>https://ece-courses.github.io/ece-500-site/posts/program-overview/</guid>
       <description>Welcome!</description>
     </item>
     
@@ -49,11 +49,11 @@
     </item>
     
     <item>
-      <title>Prerequisites</title>
-      <link>https://ece-courses.github.io/ece-500-site/posts/pre-requisites/</link>
+      <title>Resources</title>
+      <link>https://ece-courses.github.io/ece-500-site/posts/resoures/</link>
       <pubDate>Fri, 10 Jul 2020 15:53:31 -0400</pubDate>
       
-      <guid>https://ece-courses.github.io/ece-500-site/posts/pre-requisites/</guid>
+      <guid>https://ece-courses.github.io/ece-500-site/posts/resoures/</guid>
       <description></description>
     </item>
     

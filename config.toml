@@ -1,5 +1,6 @@
 languageCode = "en-us"
-title = "ECE 500 - Research in Computer Vision"
+title = "Computer Vision Summer Research Program"
+subtitle = ""
 theme = "simple-blog"
 baseURL = "https://ece-courses.github.io/ece-500-site/"
 copyright = "© 2020 Leila Abdelrahman -- "

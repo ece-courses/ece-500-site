@@ -1,5 +1,5 @@
 ---
-title: "Course Overview"
+title: "Program Overview"
 date: 2020-07-11T15:48:35-04:00
 draft: false
 summary: "Welcome!"
@@ -20,10 +20,10 @@ summary: "Welcome!"
 ---
 
 ### Grading
-
+<!-- 
 | Component  | |Percent of Grade |
 | ------------- | ------- | ------------- |
 | Project Proposal | | 15%  |
 | Check-in Report | | 25% |
 | Final Report | | 35 %|
-| Presentation | | 25% |
+| Presentation | | 25% | -->

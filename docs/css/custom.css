@@ -1,12 +1,12 @@
-.my-lg-6 {
+/* .my-lg-6 {
     margin-top: 5rem!important;
     margin-bottom: 5rem!important
   }
-    
+
   .bg-skew {
     position: relative
   }
-  
+
   .bg-skew:before {
     content: "";
     position: absolute;
@@ -18,16 +18,16 @@
     transform-origin: top left;
     z-index: -1
   }
-  
+
   .bg-skew-light:before {
     background-color: #f8f9fa
   }
-  
+
   .card-hover:hover {
     box-shadow: 0 .5rem 1rem rgba(0, 0, 0, .15);
     transform: translateY(-3px)
   }
-  
+
   .link-cta {
     border-bottom: 2px solid #006aff;
     color: #343a40;
@@ -36,26 +36,26 @@
     padding-bottom: 2px;
     text-transform: uppercase
   }
-  
+
   .link-cta:hover {
     color: #006aff;
     text-decoration: none
   }
-  
+
   .link-tag {
     text-decoration: underline
   }
-  
+
   .link-tag:hover{
     text-decoration: none
   }
-  
+
   .card-title a {
     color: #212529
   }
-  
+
   .card-title a:focus, .card-title a:hover {
     color: #006aff;
     text-decoration: none
   }
-  
+   */

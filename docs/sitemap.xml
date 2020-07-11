@@ -3,11 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://ece-courses.github.io/ece-500-site/posts/course-overview/</loc>
-    <lastmod>2020-07-11T15:48:35-04:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://ece-courses.github.io/ece-500-site/</loc>
     <lastmod>2020-07-11T15:48:35-04:00</lastmod>
   </url>
@@ -23,6 +18,11 @@
   </url>
   
   <url>
+    <loc>https://ece-courses.github.io/ece-500-site/posts/program-overview/</loc>
+    <lastmod>2020-07-11T15:48:35-04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://ece-courses.github.io/ece-500-site/staff/</loc>
     <lastmod>2020-07-11T15:48:35-04:00</lastmod>
   </url>
@@ -33,7 +33,7 @@
   </url>
   
   <url>
-    <loc>https://ece-courses.github.io/ece-500-site/posts/pre-requisites/</loc>
+    <loc>https://ece-courses.github.io/ece-500-site/posts/resoures/</loc>
     <lastmod>2020-07-10T15:53:31-04:00</lastmod>
   </url>
   
