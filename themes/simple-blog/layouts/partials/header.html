@@ -1,8 +1,7 @@
 <!doctype html>
 <html lang="{{ .Site.LanguageCode }}">
 <head>
-  <div style='margin-top: 20px'> <br></div>
-  <div class="col-4 col-md-2 mb-4">
+  <!-- <div class="col-4 col-md-2 mb-4">
     <h2 class="h5 mb-3">Menu</h2>
     <ul class="nav flex-column">
         <li class="mb-1"><a href="{{ .Site.BaseURL }}" class="text-secondary">Home</a></li>
@@ -10,7 +9,27 @@
         <li class="mb-1"><a href="{{ .URL }}" class="text-secondary">{{ .Name }}</a></li>
         {{ end }}
     </ul>
-</div>
+</div> -->
+
+<nav class="navbar navbar-expand-lg navbar-light bg-light">
+  <a class="navbar-brand" href="{{ .Site.BaseURL }}">ECE 500</a>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+
+  <div class="collapse navbar-collapse" id="navbarSupportedContent">
+    <ul class="navbar-nav mr-auto">
+        <li class="nav-item"><a href="{{ .Site.BaseURL }}" class="nav-link">Home</a></li>
+        {{ range .Site.Menus.main }}
+        <li class="nav-item"><a href="{{ .URL }}" class="nav-link">{{ .Name }}</a></li>
+        {{ end }}
+    </ul>
+    <!-- <form class="form-inline my-2 my-lg-0">
+      <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
+      <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
+    </form> -->
+  </div>
+</nav>
 
     <title>{{ if not .IsHome }}{{ .Title }} - {{ end }}{{ .Site.Title }}</title>
     <meta charset="utf-8">

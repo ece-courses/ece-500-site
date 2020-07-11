@@ -9,4 +9,6 @@ Given current global circumstances, this course is entirely remote! We will be m
 
 To help you set up, please follow these instructions:
 
-1. [Create a Zoom Account]()
+1. [Create a Zoom Account](https://zoom.us/freesignup/)
+2. [Create a Piazza Account]()
+3. [Create an Overleaf Account](https://www.overleaf.com/register)

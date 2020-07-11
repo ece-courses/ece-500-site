@@ -15,7 +15,14 @@ publishDir = "docs"
     identifier = "staff"
     name = "Teaching Staff"
     url = "/staff/"
+    weight = 5
+
+  [[menu.main]]
+    identifier = "office hours"
+    name = "Office Hours"
+    url = "/office-hours/"
     weight = 10
+
 
 [taxonomies]
 category = "categories"
