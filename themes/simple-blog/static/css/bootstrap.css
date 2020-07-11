@@ -1,6 +1,7 @@
 .jumbotron {
-  background-color: lightblue;
+  background-color: #18bade;
   margin-top: 20px;
+  color: white !important;
 }
 
 
