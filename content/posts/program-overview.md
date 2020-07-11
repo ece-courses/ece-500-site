@@ -13,14 +13,13 @@ summary: "Welcome!"
 
 ---
 
-### Course Calendar
+### Program Calendar
 
 {{<course-cal>}}
 
 ---
 
-### Grading
-<!-- 
+<!--
 | Component  | |Percent of Grade |
 | ------------- | ------- | ------------- |
 | Project Proposal | | 15%  |
