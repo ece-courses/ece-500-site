@@ -7,7 +7,7 @@ paginate = 3
 DefaultContentLanguage = "en"
 enableInlineShortcodes = true
 footnoteReturnLinkContents = "^"
-publishDir = "public"
+publishDir = "docs"
 
 [menu]
 
