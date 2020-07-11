@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ECE 500 - Research in Computer Vision</title>
+    <link>ece-courses.github.io/</link>
+    <description>Recent content on ECE 500 - Research in Computer Vision</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© 2020 Leila Abdelrahman -- </copyright>
+    <lastBuildDate>Sat, 11 Jul 2020 15:48:35 -0400</lastBuildDate>
+    
+	<atom:link href="ece-courses.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Course Overview</title>
+      <link>ece-courses.github.io/posts/course-overview/</link>
+      <pubDate>Sat, 11 Jul 2020 15:48:35 -0400</pubDate>
+      
+      <guid>ece-courses.github.io/posts/course-overview/</guid>
+      <description>Welcome!</description>
+    </item>
+    
+    <item>
+      <title>Setting Up</title>
+      <link>ece-courses.github.io/posts/setting-up/</link>
+      <pubDate>Fri, 10 Jul 2020 15:59:48 -0400</pubDate>
+      
+      <guid>ece-courses.github.io/posts/setting-up/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Prerequisites</title>
+      <link>ece-courses.github.io/posts/pre-requisites/</link>
+      <pubDate>Fri, 10 Jul 2020 15:53:31 -0400</pubDate>
+      
+      <guid>ece-courses.github.io/posts/pre-requisites/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recordings</title>
+      <link>ece-courses.github.io/posts/recordings/</link>
+      <pubDate>Wed, 08 Jul 2020 16:15:55 -0400</pubDate>
+      
+      <guid>ece-courses.github.io/posts/recordings/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
