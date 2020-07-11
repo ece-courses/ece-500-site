@@ -1,0 +1,25 @@
+languageCode = "en-us"
+title = "ECE 500 - Research in Computer Vision"
+theme = "simple-blog"
+baseURL = "ece-courses.github.io"
+copyright = "© 2020 Leila Abdelrahman -- "
+paginate = 3
+DefaultContentLanguage = "en"
+enableInlineShortcodes = true
+footnoteReturnLinkContents = "^"
+publishDir = "public"
+
+[menu]
+
+  [[menu.main]]
+    identifier = "staff"
+    name = "Teaching Staff"
+    url = "/staff/"
+    weight = 10
+
+[taxonomies]
+category = "categories"
+tag = "tags"
+
+[params]
+description = "Developing and Executing Research Projects"
