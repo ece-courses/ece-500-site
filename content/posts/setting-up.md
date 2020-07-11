@@ -5,7 +5,7 @@ draft: false
 Summary: " "
 ---
 
-Given current global circumstances, this course is entirely remote! We will be meeting with Zoom twice a week. All class discussions and office hours will be hosted with Zoom!
+Given current global circumstances, this program is entirely remote! We will be meeting with Zoom once a week. All program discussions and office hours will be hosted with Zoom!
 
 To help you set up, please follow these instructions:
 
