@@ -19,10 +19,8 @@ summary: "Welcome!"
 
 ---
 
-<!--
-| Component  | |Percent of Grade |
-| ------------- | ------- | ------------- |
-| Project Proposal | | 15%  |
-| Check-in Report | | 25% |
-| Final Report | | 35 %|
-| Presentation | | 25% | -->
+### Program Components
+- ##### Project Proposal
+- ##### Check-in Report
+- ##### Final Report
+- ##### Presentation
