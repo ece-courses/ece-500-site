@@ -20,8 +20,8 @@ publishDir = "docs"
 
   [[menu.main]]
     identifier = "office hours"
-    name = "Office Hours"
-    url = "/office-hours/"
+    name = "Schedule"
+    url = "/schedule/"
     weight = 10
 
 
