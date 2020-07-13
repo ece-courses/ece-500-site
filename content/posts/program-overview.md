@@ -9,7 +9,7 @@ summary: "Welcome!"
 
 ---
 
- This virtual online course aims to introduce you to research methods in Deep Learning, with a focus on Computer Vision! This 7-week course will help you develop a research project from start to finish. By the end of the class, you will have created a research report, mastered your presentation skills, and established habits for a fruitful research career!
+ This virtual online course aims to introduce you to research methods in Deep Learning, with a focus on Computer Vision! This 7-week program will help you develop a research project from start to finish. By the end of the program, you will have created a publication manuscript draft, mastered your presentation skills, and established habits for a fruitful research career!
 
 ---
 
