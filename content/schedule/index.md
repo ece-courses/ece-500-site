@@ -6,3 +6,5 @@ summary: "The Program Schedule"
 ---
 
 {{<course-cal>}}
+
+{{<course-cal-button-1>}}

@@ -17,10 +17,13 @@ summary: "Welcome!"
 
 {{<course-cal>}}
 
+{{<course-cal-button-2>}}
+
 ---
 
 ### Program Components
-- ##### Project Proposal
-- ##### Check-in Report
-- ##### Final Report
-- ##### Presentation
+- ##### Project Proposal Due | July 19th
+- ##### Check-in Report Due | August 2nd
+- ##### Final Report Due | August 16th
+- ##### Presentation Due | August 23rd
+- ##### Symposium | August 24th
