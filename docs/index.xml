@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© 2020 Leila Abdelrahman -- </copyright>
-    <lastBuildDate>Sat, 11 Jul 2020 15:48:35 -0400</lastBuildDate>
+    <lastBuildDate>Sat, 11 Jul 2020 15:59:48 -0400</lastBuildDate>
     
 	<atom:link href="https://ece-courses.github.io/ece-500-site/index.xml" rel="self" type="application/rss+xml" />
     
@@ -64,6 +64,24 @@
       
       <guid>https://ece-courses.github.io/ece-500-site/posts/resoures/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Slides</title>
+      <link>https://ece-courses.github.io/ece-500-site/posts/slides/</link>
+      <pubDate>Fri, 10 Jul 2020 15:48:35 -0400</pubDate>
+      
+      <guid>https://ece-courses.github.io/ece-500-site/posts/slides/</guid>
+      <description>Program Slides</description>
+    </item>
+    
+    <item>
+      <title>Slides</title>
+      <link>https://ece-courses.github.io/ece-500-site/slides/</link>
+      <pubDate>Fri, 10 Jul 2020 15:48:35 -0400</pubDate>
+      
+      <guid>https://ece-courses.github.io/ece-500-site/slides/</guid>
+      <description>Program Slides</description>
     </item>
     
     <item>

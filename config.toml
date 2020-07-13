@@ -24,6 +24,13 @@ publishDir = "docs"
     url = "/schedule/"
     weight = 10
 
+  [[menu.main]]
+    identifier = "office hours"
+    name = "Slides"
+    url = "/slides/"
+    weight = 15
+
+
 
 [taxonomies]
 category = "categories"
