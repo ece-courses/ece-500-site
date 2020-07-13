@@ -22,8 +22,4 @@ summary: "Welcome!"
 ---
 
 ### Program Components
-- ##### Project Proposal Due | July 19th
-- ##### Check-in Report Due | August 2nd
-- ##### Final Report Due | August 16th
-- ##### Presentation Due | August 23rd
-- ##### Symposium | August 24th
+{{<program-components>}}
