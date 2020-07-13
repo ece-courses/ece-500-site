@@ -19,16 +19,16 @@ publishDir = "docs"
     weight = 5
 
   [[menu.main]]
-    identifier = "office hours"
+    identifier = "schedule"
     name = "Schedule"
     url = "/schedule/"
     weight = 10
 
   [[menu.main]]
-    identifier = "office hours"
+    identifier = "slides"
     name = "Slides"
     url = "/slides/"
-    weight = 15
+    weight = 10
 
 
 
