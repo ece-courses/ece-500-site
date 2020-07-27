@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© 2020 Leila Abdelrahman -- </copyright>
-    <lastBuildDate>Sat, 11 Jul 2020 15:48:35 -0400</lastBuildDate>
+    <lastBuildDate>Sat, 11 Jul 2020 15:59:48 -0400</lastBuildDate>
     
 	<atom:link href="https://ece-courses.github.io/ece-500-site/index.xml" rel="self" type="application/rss+xml" />
     
@@ -90,7 +90,8 @@
       <pubDate>Wed, 08 Jul 2020 16:15:55 -0400</pubDate>
       
       <guid>https://ece-courses.github.io/ece-500-site/posts/recordings/</guid>
-      <description></description>
+      <description>Meeting 3 Recording 07/27/2020
+Go To Recording    </description>
     </item>
     
   </channel>
