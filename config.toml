@@ -30,6 +30,12 @@ publishDir = "docs"
     url = "/slides/"
     weight = 10
 
+  [[menu.main]]
+    identifier = "slides"
+    name = "Recordings"
+    url = "/posts/recordings/"
+    weight = 15
+
 
 
 [taxonomies]
